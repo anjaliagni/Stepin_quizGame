@@ -60,3 +60,7 @@
 | LR02 | name of the player is shown                    | HR02      | Implemented |
 
 
+# REFERENCES
+
+https://www.codewithc.com/quiz-game-mini-project-in-c/
+https://itsourcecode.com/free-projects/c-projects/quiz-game-in-c-with-source-code/
