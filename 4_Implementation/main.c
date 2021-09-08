@@ -9,7 +9,6 @@ void help();
 void edit_score(float , char []);
 int main()
      {
-     int countr,r,r1,count,i,n;
      float score;
      char choice;
      char playername[20];
