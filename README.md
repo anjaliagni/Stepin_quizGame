@@ -1,5 +1,5 @@
 # Stepin_quizGame
-#BADGES
+BADGES
 https://www.code-inspector.com/project/27890/score/svg
 
 https://www.code-inspector.com/project/27890/status/svg
